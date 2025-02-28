@@ -1,4 +1,8 @@
-package co.edu.escuelaing.reflexionlab;
+package co.edu.escuelaing.reflexionlab.Controlador;
+
+import co.edu.escuelaing.reflexionlab.Anotaciones.GetMapping;
+import co.edu.escuelaing.reflexionlab.Anotaciones.RequestParam;
+import co.edu.escuelaing.reflexionlab.Anotaciones.RestController;
 
 @RestController
 public class TestController {
