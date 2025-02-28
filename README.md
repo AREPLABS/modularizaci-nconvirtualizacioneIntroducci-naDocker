@@ -56,9 +56,14 @@ src
    java -cp target/micro-spring-boot-1.0-SNAPSHOT.jar co.edu.escuelaing.reflexionlab.MicroSpringBoot
    ```
 
+## Videos
+
+Econtraras en lo primero que sale del repositorio
+
 ## 🌍 Uso de la Aplicación
 
 Una vez en ejecución, puedes probar los siguientes endpoints:
+
 
 - **Obtener un saludo**  
   `GET http://localhost:35000/greeting`  
