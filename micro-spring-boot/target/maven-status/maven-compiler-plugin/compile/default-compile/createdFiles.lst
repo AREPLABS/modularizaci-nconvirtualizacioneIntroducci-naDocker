@@ -1,8 +1,0 @@
-co\edu\escuelaing\reflexionlab\Controlador\GreetingController.class
-co\edu\escuelaing\reflexionlab\MicroSpringBoot.class
-co\edu\escuelaing\reflexionlab\RequestHandler.class
-co\edu\escuelaing\reflexionlab\Anotaciones\RestController.class
-co\edu\escuelaing\reflexionlab\Controlador\TestController.class
-co\edu\escuelaing\reflexionlab\Anotaciones\RequestParam.class
-co\edu\escuelaing\reflexionlab\Anotaciones\GetMapping.class
-co\edu\escuelaing\reflexionlab\Anotaciones\ResponseEntity.class
